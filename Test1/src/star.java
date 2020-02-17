@@ -29,6 +29,4 @@ public class star {
 			System.out.println();
 		}
 	}
-	
-	//test
 } 
